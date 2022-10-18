@@ -9,6 +9,7 @@ Angular is a single-page application client using HTML and Typescript.
 - IDE
 
 ### how to install NPM
+
 **Installing NodeJs**
 
 ```
@@ -45,4 +46,4 @@ ng serve
 
 ## Resources
 
-- [X][Angular Tutorial For Beginners | Angular Hello World Program Example Step By Step |  Simplilearn](https://www.youtube.com/watch?v=TC1oVXlVE3M)
+- [X][Simplilearn: Angular Tutorial For Beginners | Angular Hello World Program Example Step By Step](https://www.youtube.com/watch?v=TC1oVXlVE3M)
